@@ -19,8 +19,9 @@ Our system backend provides:
 
 1. User data, which includes times they are not available
 2. Meeting rooms data, which includes their size, availability, equipments present etc.
+3. Events data, which includes event time, participants and room booked.
 
-Data can be accessed via this endpoint: [API ENDPOINT HERE]
+Data can be accessed via this endpoint: https://app.fakejson.com/q/OHraINe7?token=TQEX1zL2SbGta2e3a1ptLw
 
 **Note:**
 
