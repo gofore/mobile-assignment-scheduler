@@ -2,8 +2,7 @@
 
 Meetings are the core of any team work, it makes people feel trusted, heard and gives them the opportunity to contribute to the success of the project.
 
-With the plenty of meetings happening at our offices, scheudling a meeting, let alone finding a free meeting room, becomes a daunting task. "Whoops sorry, was this room reserved for you?"
-becomes a common workplace dialogue. Help us goforeans smoothly schedule meetings and keep our projects running with an easy to use mobile application.
+With the plenty of meetings happening at our offices, scheduling a meeting, let alone finding a free meeting room, becomes a daunting task. "Whoops sorry, was this room reserved for you?" becomes a common workplace dialogue. Help us goforeans smoothly schedule meetings and keep our projects running with an easy to use mobile application.
 
 ## The Task
 
@@ -29,9 +28,37 @@ Data can be accessed via this endpoint: [API ENDPOINT HERE]
 - You can assume user is authenticated.
 - You should use software development best practices when attempting this assignment.
 
-### What we are looking for
+### Scoring Criteria
+
+List of areas/topics that will affect your final score:
+
+- [ ] Code Quality
+  - [ ] WTFs / minute
+  - [ ] Readability
+  - [ ] Structure
+  - [ ] Coding style
+  - [ ] Naming conventions
+  - [ ] Automated tests
+  - [ ] DRY
+  - [ ] KISS
+  
+- [ ] Non-functional requirements
+  - [ ] Quality
+  - [ ] Performance
+  - [ ] Security
+  - [ ] Scalability
+  - [ ] Robustness / Error handling
+  - [ ] Documentation
+  
+- [ ] General
+  - [ ] UI/UX
+  - [ ] Assignment completion time
+  - [ ] Selected programming language
+  - [ ] Innovative solutions (algorithms, used libraries, wow-effect)
+  - [ ] Usage of industry best practices (design patterns, functional programming, etc.)
+  - [ ] Running instructions if using exotic toolsets (also for tests...)
 
 
-
-### How to Publish
-
+### Submission Instructions
+* Create a personal github repository with proper running instructions
+* Send us a link to the repository
