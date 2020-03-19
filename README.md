@@ -34,30 +34,21 @@ List of areas/topics that will affect your final score:
 
 - [ ] Code Quality
   - [ ] WTFs / minute
-  - [ ] Readability
   - [ ] Structure
   - [ ] Coding style
-  - [ ] Naming conventions
   - [ ] Automated tests
-  - [ ] DRY
-  - [ ] KISS
   
 - [ ] Non-functional requirements
-  - [ ] Quality
   - [ ] Performance
   - [ ] Security
-  - [ ] Scalability
   - [ ] Robustness / Error handling
   - [ ] Documentation
   
 - [ ] General
   - [ ] UI/UX
-  - [ ] Assignment completion time
-  - [ ] Selected programming language
   - [ ] Innovative solutions (algorithms, used libraries, wow-effect)
   - [ ] Usage of industry best practices (design patterns, functional programming, etc.)
   - [ ] Running instructions if using exotic toolsets (also for tests...)
-
 
 ### Submission Instructions
 * Create a personal github repository with proper running instructions
